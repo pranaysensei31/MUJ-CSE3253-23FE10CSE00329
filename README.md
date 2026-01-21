@@ -7,3 +7,4 @@ Student ID: 23FE10CSE00329
 
 ## Collaboration Simulation
 This change was made from a cloned repository to simulate teamwork.
+Release v1.0.0 준비
