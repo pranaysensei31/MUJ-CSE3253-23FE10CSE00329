@@ -1,6 +1,10 @@
 body {
     font-family: Arial, sans-serif;
+HEAD
     background: linear-gradient(135deg, #ffffff, #ffffff);
+=======
+    background: linear-gradient(135deg, #e6f7ff, #ffffff);
+ feature-auth
     margin: 0;
     padding: 0;
   }
